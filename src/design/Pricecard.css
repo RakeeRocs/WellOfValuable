@@ -1,0 +1,178 @@
+.price-card-container {
+    background: #eee;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 20px 15px;
+    height: auto;
+    width : 90%;
+    max-width: 317px;
+    margin: 12px auto 30px;
+    border-radius: 5px;
+    overflow: hidden;
+    position:relative;
+}
+
+.price-card-container__savings-card {
+    margin-top : -20px;
+}
+
+.price-card__savings_text {
+    color: #007a00;
+    margin-top : 0px;
+}
+
+.price-card__features {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 30%;
+    font-size : 13px;
+}
+
+.price-card__features--item {
+    background-image: url("../icons/icon-tick-green.png");
+    background-repeat: no-repeat;
+    background-position: left 5px;
+    padding-left: 20px;
+    margin-top: 5px
+}
+
+.price-card-symbol {
+    top: -15px;
+    vertical-align: top
+}
+
+.price-card__cta {
+    margin: 1px 0 10px;
+    text-align: center
+}
+
+.button_cta__choose-plan {
+    appearance: none;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 5px;
+    cursor: pointer;
+    display: inline-block;
+    min-width: 80px;
+    padding: 10px 20px;
+    text-align: center;
+    transition: background .2s ease-in-out,border-color .2s ease-in-out,color .2s ease-in-out
+}
+
+.button_cta__choose-plan:focus,.button_cta__choose-plan:hover {
+    text-decoration: none
+}
+
+.button_cta__choose-plan[disabled] {
+    cursor: not-allowed
+}
+
+.button_cta__choose-plan {
+    margin-left: 20px;
+    background: #e20046;
+    border-color: #e20046;
+    color: #fff
+}
+.bold{
+    font-family:"bt_font_bold","Calibri","Arial",sans-serif
+}
+@media(min-width:768px){
+    h1,.s1{font-size:40px;line-height:44px}
+    h2,.s2{font-size:32px;line-height:36px}
+    h3,.s3{font-size:24px;line-height:28px}
+    h4,.s4{font-size:20px;line-height:25px;}
+    .display-tablet{display:block}
+    .hide-tablet{display:none}
+}
+
+.price-card-main {
+    border: 1px solid black;
+    max-width: 300px;
+    margin-inline: auto;
+    padding-bottom: 0px;
+    margin-top : 20px;
+    height : auto;
+}
+.price-card-main__sim-selection,.price-card-main__data-selection {
+    margin-top: 10px;
+    margin-bottom: 0px;
+    display: inline;
+    float: left;
+    overflow: hidden;
+}
+.price-card-main__sim-selection {
+    width: 25%;
+    height : 80px;
+}
+.price-card-main__data-selection {
+    width: 60%;
+}
+.price-card-main__selected {
+    width : 75%;
+    margin-left : 15%;
+}
+.data-sel__desc {
+    font-size: 12px;
+    font-family: Arial, sans-serif;
+}
+.multi-switch-button_active {
+    background-color: #008a00 !important;
+    border-color: #008a00 !important;
+    color: #fff;
+}
+.multi-switch-button {
+    width: 80px;
+    margin: 10px;
+    border: 1px solid blue;
+    border-radius: 8px;
+    background: transparent;
+    height: 40px;
+}
+
+.price-lower-message {
+    position: relative;
+    padding: 1px 20px 15px;
+    margin: 5px 5px -12px 0px;
+    border-radius: 5px 5px 0 0;
+    background-color: #ffdc00;
+    text-align: center;
+    width :87%;
+    height :10px
+}
+
+.was-monthly-cost {
+    font-size : 13px;
+    font-family: Arial, sans-serif;
+    margin-right : 5px;
+
+}
+.was-monthly-cost__value {
+    text-decoration: line-through;
+}
+
+.sim-price-info {
+    margin-top : 16px;
+}
+.pc-price-merich-text {
+    position: relative;
+    padding: 10px;
+    border-radius: 3px 3px 3px 3px;
+    text-align: center;
+    background-color: #ffdc00;
+}
+.countdown-timer_sub-main  {
+    display: inline-block;
+    white-space: nowrap;
+    padding: 5px 10px;
+    border-radius: 5px;
+    background-color: #fff;
+    line-height: 1;
+}
+.limited-offer-msg {
+    font-size: 14px;
+    width: 100%;
+    font-weight: bold;
+    margin-bottom: 5px;
+}

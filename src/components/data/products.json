@@ -1,0 +1,269 @@
+{
+  "MOB-1GB": [
+    {
+      "sim_count": 1,
+      "data_allowance": 1,
+      "was_data_allowance": 1,
+      "monthly_cost": 700,
+      "was_monthly_cost": 700,
+      "product_code": "S0535989"
+    },
+    {
+      "sim_count": 2,
+      "data_allowance": 1,
+      "was_data_allowance": 1,
+      "monthly_cost": 1400,
+      "was_monthly_cost": 1400,
+      "product_code": "S0535989"
+    },
+    {
+      "sim_count": 3,
+      "data_allowance": 1,
+      "was_data_allowance": 1,
+      "monthly_cost": 2100,
+      "was_monthly_cost": 2100,
+      "product_code": "S0535989"
+    },
+    {
+      "sim_count": 4,
+      "data_allowance": 1,
+      "was_data_allowance": 1,
+      "monthly_cost": 2800,
+      "was_monthly_cost": 2800,
+      "product_code": "S0535989"
+    },
+    {
+      "sim_count": 5,
+      "data_allowance": 1,
+      "was_data_allowance": 1,
+      "monthly_cost": 3500,
+      "was_monthly_cost": 3500,
+      "product_code": "S0535989"
+    }
+  ],
+  "MOB-6GB": [
+    {
+      "sim_count": 1,
+      "data_allowance": 6,
+      "was_data_allowance": 6,
+      "monthly_cost": 700,
+      "was_monthly_cost": 900,
+      "merch_strip_text": "Our lowest ever price",
+      "product_code": "S0535909"
+    },
+    {
+      "sim_count": 2,
+      "data_allowance": 6,
+      "was_data_allowance": 6,
+      "monthly_cost": 1400,
+      "was_monthly_cost": 1600,
+      "merch_strip_text": "Our lowest ever price",
+      "product_code": "S0535909"
+    },
+    {
+      "sim_count": 3,
+      "data_allowance": 6,
+      "was_data_allowance": 6,
+      "monthly_cost": 2100,
+      "was_monthly_cost": 2300,
+      "merch_strip_text": "Our lowest ever price",
+      "product_code": "S0535909"
+    },
+    {
+      "sim_count": 4,
+      "data_allowance": 6,
+      "was_data_allowance": 6,
+      "monthly_cost": 2800,
+      "was_monthly_cost": 3000,
+      "merch_strip_text": "Our lowest ever price",
+      "product_code": "S0535909"
+    },
+    {
+      "sim_count": 5,
+      "data_allowance": 6,
+      "was_data_allowance": 6,
+      "monthly_cost": 3500,
+      "was_monthly_cost": 3700,
+      "merch_strip_text": "Our lowest ever price",
+      "product_code": "S0535909"
+    }
+  ],
+  "MOB-15GB": [
+    {
+      "sim_count": 1,
+      "data_allowance": 15,
+      "was_data_allowance": 12,
+      "monthly_cost": 1200,
+      "was_monthly_cost": 1200,
+      "product_code": "S0535924"
+    },
+    {
+      "sim_count": 2,
+      "data_allowance": 15,
+      "was_data_allowance": 12,
+      "monthly_cost": 2400,
+      "was_monthly_cost": 2400,
+      "product_code": "S0535924"
+    },
+    {
+      "sim_count": 3,
+      "data_allowance": 15,
+      "was_data_allowance": 12,
+      "monthly_cost": 3600,
+      "was_monthly_cost": 3600,
+      "product_code": "S0535924"
+    },
+    {
+      "sim_count": 4,
+      "data_allowance": 15,
+      "was_data_allowance": 12,
+      "monthly_cost": 4800,
+      "was_monthly_cost": 4800,
+      "product_code": "S0535924"
+    },
+    {
+      "sim_count": 5,
+      "data_allowance": 15,
+      "was_data_allowance": 12,
+      "monthly_cost": 6000,
+      "was_monthly_cost": 6000,
+      "product_code": "S0535924"
+    }
+  ],
+  "MOB-40GB": [
+    {
+      "sim_count": 1,
+      "data_allowance": 40,
+      "was_data_allowance": 40,
+      "monthly_cost": 1500,
+      "was_monthly_cost": 1600,
+      "countdown_text": "Limited time offer",
+      "countdown_end_time": "2021-02-08T23:59:59.999Z",
+      "product_code": "S0535874"
+    },
+    {
+      "sim_count": 2,
+      "data_allowance": 40,
+      "was_data_allowance": 40,
+      "monthly_cost": 2700,
+      "was_monthly_cost": 3200,
+      "countdown_text": "Limited time offer",
+      "countdown_end_time": "2021-02-08T23:59:59.999Z",
+      "product_code": "S0535874"
+    },
+    {
+      "sim_count": 3,
+      "data_allowance": 40,
+      "was_data_allowance": 40,
+      "monthly_cost": 3900,
+      "was_monthly_cost": 4800,
+      "countdown_text": "Limited time offer",
+      "countdown_end_time": "2021-02-08T23:59:59.999Z",
+      "product_code": "S0535874"
+    },
+    {
+      "sim_count": 4,
+      "data_allowance": 40,
+      "was_data_allowance": 40,
+      "monthly_cost": 5100,
+      "was_monthly_cost": 6400,
+      "countdown_text": "Limited time offer",
+      "countdown_end_time": "2021-02-08T23:59:59.999Z",
+      "product_code": "S0535874"
+    },
+    {
+      "sim_count": 5,
+      "data_allowance": 40,
+      "was_data_allowance": 40,
+      "monthly_cost": 6300,
+      "was_monthly_cost": 8000,
+      "countdown_text": "Limited time offer",
+      "countdown_end_time": "2021-02-08T23:59:59.999Z",
+      "product_code": "S0535874"
+    }
+  ],
+  "MOB-60GB": [
+    {
+      "sim_count": 1,
+      "data_allowance": 60,
+      "was_data_allowance": 60,
+      "monthly_cost": 2000,
+      "was_monthly_cost": 2000,
+      "product_code": "S0536004"
+    },
+    {
+      "sim_count": 2,
+      "data_allowance": 60,
+      "was_data_allowance": 60,
+      "monthly_cost": 3600,
+      "was_monthly_cost": 4000,
+      "product_code": "S0536004"
+    },
+    {
+      "sim_count": 3,
+      "data_allowance": 60,
+      "was_data_allowance": 60,
+      "monthly_cost": 5200,
+      "was_monthly_cost": 6000,
+      "product_code": "S0536004"
+    },
+    {
+      "sim_count": 4,
+      "data_allowance": 60,
+      "was_data_allowance": 60,
+      "monthly_cost": 6800,
+      "was_monthly_cost": 8000,
+      "product_code": "S0536004"
+    },
+    {
+      "sim_count": 5,
+      "data_allowance": 60,
+      "was_data_allowance": 60,
+      "monthly_cost": 8400,
+      "was_monthly_cost": 10000,
+      "product_code": "S0536004"
+    }
+  ],
+  "MOB-100GB": [
+    {
+      "sim_count": 1,
+      "data_allowance": 100,
+      "was_data_allowance": 100,
+      "monthly_cost": 2500,
+      "was_monthly_cost": 2500,
+      "product_code": "S0529289"
+    },
+    {
+      "sim_count": 2,
+      "data_allowance": 100,
+      "was_data_allowance": 100,
+      "monthly_cost": 5000,
+      "was_monthly_cost": 5000,
+      "product_code": "S0529289"
+    },
+    {
+      "sim_count": 3,
+      "data_allowance": 100,
+      "was_data_allowance": 100,
+      "monthly_cost": 7500,
+      "was_monthly_cost": 7500,
+      "product_code": "S0529289"
+    },
+    {
+      "sim_count": 4,
+      "data_allowance": 100,
+      "was_data_allowance": 100,
+      "monthly_cost": 10000,
+      "was_monthly_cost": 10000,
+      "product_code": "S0529289"
+    },
+    {
+      "sim_count": 5,
+      "data_allowance": 100,
+      "was_data_allowance": 100,
+      "monthly_cost": 12500,
+      "was_monthly_cost": 12500,
+      "product_code": "S0529289"
+    }
+  ]
+}
