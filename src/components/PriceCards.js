@@ -10,7 +10,7 @@ export const PriceCards = (props) => {
         countdownEndTime = props.activeProduct.countdown_end_time,
         simCount = props.simCount,
         monthlyCostOneSim = props.activeProductInfoForOneSim.monthly_cost,
-        buttonContainerStyle = {marginTop: "1px"};
+        buttonContainerStyle = {marginTop: "1px"},
         renderer = ({ days, hours, minutes, seconds }) => {
               return <span className='countdown-timer' >{days}d {hours}h {minutes}m {seconds}s</span>;
         };
